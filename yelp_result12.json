@@ -1,0 +1,601 @@
+{
+   "businesses": [
+      {
+         "id": "i9OqZT0dLMPC1TbMtyaIWQ",
+         "alias": "the-noodle-new-york",
+         "name": "The Noodle",
+         "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/cryEyILrYWd48fnmWqEYjw/o.jpg",
+         "image_alt": "flat noodle in a bow with red chilli and meat on top",
+         "is_closed": false,
+         "url": "https://www.yelp.com/biz/the-noodle-new-york?adjust_creative=PIkIP8RRfZoHQb4Z8Y710w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=PIkIP8RRfZoHQb4Z8Y710w",
+         "review_count": 272,
+         "description": "There is no stairs in the front. However, to go in there is a little tent in the front that is relatively small. There is not much room to sit in there. The tables are high. It is not noisy.",
+         "categories": [
+            {
+               "alias": "noodles",
+               "title": "Noodles"
+            },
+            {
+               "alias": "chinese",
+               "title": "Chinese"
+            },
+            {
+               "alias": "comfortfood",
+               "title": "Comfort Food"
+            }
+         ],
+         "rating": 4.5,
+         "coordinates": {
+            "latitude": 40.81002,
+            "longitude": -73.94352
+         },
+         "transactions": [
+            "pickup",
+            "delivery"
+         ],
+         "location": {
+            "address1": "370 Malcolm X Blvd",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "zip_code": "10027",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+               "370 Malcolm X Blvd",
+               "New York, NY 10027"
+            ]
+         },
+         "phone": "+16468500208",
+         "display_phone": "(646) 850-0208",
+         "distance": 863.9572884166175
+      },
+      {
+         "id": "h9nuvIu8TyrQcYy8J1AOxg",
+         "alias": "the-ellington-new-york-4",
+         "name": "The Ellington",
+         "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/u8h_1j5taVgVIfxDnHvF6g/o.jpg",
+         "image_alt": "interior of the Ellington",
+         "is_closed": false,
+         "url": "https://www.yelp.com/biz/the-ellington-new-york-4?adjust_creative=PIkIP8RRfZoHQb4Z8Y710w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=PIkIP8RRfZoHQb4Z8Y710w",
+         "review_count": 104,
+         "description": "There is a slight incline by the doorstep. The door is wide. The table and chairs are spread apart. There are some high seatings and low seatings.",
+         "categories": [
+            {
+               "alias": "tradamerican",
+               "title": "American (Traditional)"
+            },
+            {
+               "alias": "bars",
+               "title": "Bars"
+            },
+            {
+               "alias": "venues",
+               "title": "Venues & Event Spaces"
+            }
+         ],
+         "rating": 4.5,
+         "coordinates": {
+            "latitude": 40.80087,
+            "longitude": -73.96823
+         },
+         "transactions": [
+            "pickup",
+            "restaurant_reservation",
+            "delivery"
+         ],
+         "price": "$$",
+         "location": {
+            "address1": "2745 Broadway",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10025",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+               "2745 Broadway",
+               "New York, NY 10025"
+            ]
+         },
+         "phone": "+12122813011",
+         "display_phone": "(212) 281-3011",
+         "distance": 1827.9816073223149
+      },
+      {
+         "id": "cB0WLUQpx9E5_DAVQ0paug",
+         "alias": "hamilton-hall-new-york-2",
+         "name": "Hamilton Hall",
+         "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/S6z-k-IbjhcZXjwDLQ3xWw/o.jpg",
+         "image_alt": "avacado on toast with greens and pickled onions",
+         "is_closed": false,
+         "url": "https://www.yelp.com/biz/hamilton-hall-new-york-2?adjust_creative=PIkIP8RRfZoHQb4Z8Y710w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=PIkIP8RRfZoHQb4Z8Y710w",
+         "review_count": 58,
+         "description": "There is no step in the front and most of the place. There is a small step in the back. There is also various heights of chairs and seatings. It is occasionally noisy.",
+         "categories": [
+            {
+               "alias": "newamerican",
+               "title": "American (New)"
+            },
+            {
+               "alias": "burgers",
+               "title": "Burgers"
+            },
+            {
+               "alias": "breakfast_brunch",
+               "title": "Breakfast & Brunch"
+            }
+         ],
+         "rating": 4.5,
+         "coordinates": {
+            "latitude": 40.8250528,
+            "longitude": -73.9519092
+         },
+         "transactions": [
+            "pickup",
+            "restaurant_reservation",
+            "delivery"
+         ],
+         "price": "$$",
+         "location": {
+            "address1": "3493 Broadway",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10031",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+               "3493 Broadway",
+               "New York, NY 10031"
+            ]
+         },
+         "phone": "+16464549797",
+         "display_phone": "(646) 454-9797",
+         "distance": 1384.463068807301
+      },
+      {
+         "id": "zWem2SAbFc7lIYR2y9DE0g",
+         "alias": "harlem-public-new-york",
+         "name": "Harlem Public",
+         "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7LGb-GvBPiqrN2uCY-6sew/o.jpg",
+         "image_alt": "inside Harlem Public by the bar",
+         "is_closed": false,
+         "url": "https://www.yelp.com/biz/harlem-public-new-york?adjust_creative=PIkIP8RRfZoHQb4Z8Y710w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=PIkIP8RRfZoHQb4Z8Y710w",
+         "review_count": 1173,
+         "description": "There is no steps in the front of the restaurant and inside. There some high chairs. It is very clustered in some parts and spread out in others. It can get very noisy.",
+         "categories": [
+            {
+               "alias": "newamerican",
+               "title": "American (New)"
+            },
+            {
+               "alias": "pubs",
+               "title": "Pubs"
+            },
+            {
+               "alias": "beerbar",
+               "title": "Beer Bar"
+            }
+         ],
+         "rating": 4.0,
+         "coordinates": {
+            "latitude": 40.828717774457,
+            "longitude": -73.9484412254424
+         },
+         "transactions": [
+            "pickup",
+            "delivery"
+         ],
+         "price": "$$",
+         "location": {
+            "address1": "3612 Broadway",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10031",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+               "3612 Broadway",
+               "New York, NY 10031"
+            ]
+         },
+         "phone": "+12129399404",
+         "display_phone": "(212) 939-9404",
+         "distance": 1831.785771591075
+      },
+      {
+         "id": "K_0tNvQd7gyabfJrodf-tw",
+         "alias": "archer-and-goat-new-york",
+         "name": "Archer & Goat",
+         "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ZaGPnw6OAAaFtCNSrArITA/o.jpg",
+         "image_alt": "minimalist interior of Archer & Goat by the bar",
+         "is_closed": false,
+         "url": "https://www.yelp.com/biz/archer-and-goat-new-york?adjust_creative=PIkIP8RRfZoHQb4Z8Y710w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=PIkIP8RRfZoHQb4Z8Y710w",
+         "review_count": 178,
+         "description": "There is ramp available in the front of the store. The are some clustered seatings areas. The stools are quite high. There are low seatings in the back.",
+         "categories": [
+            {
+               "alias": "newamerican",
+               "title": "American (New)"
+            },
+            {
+               "alias": "cocktailbars",
+               "title": "Cocktail Bars"
+            },
+            {
+               "alias": "breakfast_brunch",
+               "title": "Breakfast & Brunch"
+            }
+         ],
+         "rating": 4.5,
+         "coordinates": {
+            "latitude": 40.80432,
+            "longitude": -73.94835
+         },
+         "transactions": [
+            "pickup",
+            "delivery"
+         ],
+         "price": "$$",
+         "location": {
+            "address1": "187 Lenox Ave",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10026",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+               "187 Lenox Ave",
+               "New York, NY 10026"
+            ]
+         },
+         "phone": "+19172616602",
+         "display_phone": "(917) 261-6602",
+         "distance": 1024.213135900262
+      },
+      {
+         "id": "SLD513aTy53UMk4wQP8Wcg",
+         "alias": "the-expat-new-york-2",
+         "name": "The Expat",
+         "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/C235BpSGcWobhJLhbllzSg/o.jpg",
+         "image_alt": " various dishes on a table in the expat",
+         "is_closed": false,
+         "url": "https://www.yelp.com/biz/the-expat-new-york-2?adjust_creative=PIkIP8RRfZoHQb4Z8Y710w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=PIkIP8RRfZoHQb4Z8Y710w",
+         "review_count": 121,
+         "description": "There is ramp available but it is at the side. The chairs are high, especially around the bar. The seatings are pretty spread out. It is very noisy.",
+         "categories": [
+            {
+               "alias": "gastropubs",
+               "title": "Gastropubs"
+            },
+            {
+               "alias": "panasian",
+               "title": "Pan Asian"
+            }
+         ],
+         "rating": 4.0,
+         "coordinates": {
+            "latitude": 40.81551,
+            "longitude": -73.96008
+         },
+         "transactions": [
+            "pickup",
+            "delivery"
+         ],
+         "price": "$$",
+         "location": {
+            "address1": "64 Tiemann Pl",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10027",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+               "64 Tiemann Pl",
+               "New York, NY 10027"
+            ]
+         },
+         "phone": "+16464102922",
+         "display_phone": "(646) 410-2922",
+         "distance": 658.7835263285418
+      },
+      {
+         "id": "g_Zz87qghqq9bKHiKyws0w",
+         "alias": "beatstro-bronx",
+         "name": "Beatstro",
+         "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/iUFHSu-UVDT8Idt2RReyzg/o.jpg",
+         "image_alt": "exterior of the Beastro",
+         "is_closed": false,
+         "url": "https://www.yelp.com/biz/beatstro-bronx?adjust_creative=PIkIP8RRfZoHQb4Z8Y710w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=PIkIP8RRfZoHQb4Z8Y710w",
+         "review_count": 556,
+         "description": "There is no step in the front. However, there is a step by the back tables. There is variety of seating arrangements with high and low seating. The bar is high. The is wide space available in between seats.",
+         "categories": [
+            {
+               "alias": "tradamerican",
+               "title": "American (Traditional)"
+            },
+            {
+               "alias": "speakeasies",
+               "title": "Speakeasies"
+            },
+            {
+               "alias": "latin",
+               "title": "Latin American"
+            }
+         ],
+         "rating": 4.0,
+         "coordinates": {
+            "latitude": 40.80737,
+            "longitude": -73.92752
+         },
+         "transactions": [
+            "pickup",
+            "delivery"
+         ],
+         "price": "$$",
+         "location": {
+            "address1": "135 Alexander Ave",
+            "address2": null,
+            "address3": null,
+            "city": "Bronx",
+            "zip_code": "10454",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+               "135 Alexander Ave",
+               "Bronx, NY 10454"
+            ]
+         },
+         "phone": "+17184899397",
+         "display_phone": "(718) 489-9397",
+         "distance": 2235.872545967891
+      },
+      {
+         "id": "Pfjb9Rn5Th7R-pLXVARwlA",
+         "alias": "jin-ramen-new-york-11",
+         "name": "Jin Ramen",
+         "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/jCwklW5TZ-Vfq8V6s-wsQA/o.jpg",
+         "image_alt": "steamed pork bun in Jin Ramen",
+         "is_closed": false,
+         "url": "https://www.yelp.com/biz/jin-ramen-new-york-11?adjust_creative=PIkIP8RRfZoHQb4Z8Y710w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=PIkIP8RRfZoHQb4Z8Y710w",
+         "review_count": 1157,
+         "description": "There is incline by the front door. The door is kind of narrow. There is a wide variety of seating arrangmenet inside. Some seats are very clustered while some are spread out. There is a staircase in there. It can be very noisy",
+         "categories": [
+            {
+               "alias": "ramen",
+               "title": "Ramen"
+            }
+         ],
+         "rating": 4.0,
+         "coordinates": {
+            "latitude": 40.8154774,
+            "longitude": -73.9587672
+         },
+         "transactions": [
+            "pickup",
+            "delivery"
+         ],
+         "price": "$$",
+         "location": {
+            "address1": "3183 Broadway",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10027",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+               "3183 Broadway",
+               "New York, NY 10027"
+            ]
+         },
+         "phone": "+16465592862",
+         "display_phone": "(646) 559-2862",
+         "distance": 566.2662393634602
+      },
+      {
+         "id": "6NkTyYR2gmLpehI6Ljbgog",
+         "alias": "perch-new-york",
+         "name": "Perch",
+         "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ahrrU7y_YF8S3Yb8I9uj9w/o.jpg",
+         "image_alt": "pork belly on a dish in Perch",
+         "is_closed": false,
+         "url": "https://www.yelp.com/biz/perch-new-york?adjust_creative=PIkIP8RRfZoHQb4Z8Y710w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=PIkIP8RRfZoHQb4Z8Y710w",
+         "review_count": 37,
+         "description": "There is steps or incline in the front. The front door is very narrow. All the seating are by the bar. They are quite high. There is not much room to move around.",
+         "categories": [
+            {
+               "alias": "tapasmallplates",
+               "title": "Tapas/Small Plates"
+            },
+            {
+               "alias": "cocktailbars",
+               "title": "Cocktail Bars"
+            }
+         ],
+         "rating": 4.5,
+         "coordinates": {
+            "latitude": 40.79239,
+            "longitude": -73.946
+         },
+         "transactions": [
+            "delivery"
+         ],
+         "location": {
+            "address1": "1693 Lexington Ave",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10029",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+               "1693 Lexington Ave",
+               "New York, NY 10029"
+            ]
+         },
+         "phone": "",
+         "display_phone": "",
+         "distance": 2336.1748316773715
+      },
+      {
+         "id": "ej_pg-wc-ZtexQKPPiQ_5w",
+         "alias": "the-edge-harlem-new-york",
+         "name": "The Edge Harlem",
+         "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/-UeIeDjx2bnJRn_VBoG18w/o.jpg",
+         "image_alt": "beef slider in The Edge",
+         "is_closed": false,
+         "url": "https://www.yelp.com/biz/the-edge-harlem-new-york?adjust_creative=PIkIP8RRfZoHQb4Z8Y710w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=PIkIP8RRfZoHQb4Z8Y710w",
+         "review_count": 748,
+         "description": "There is no step or incline in the front. There is a little tent by the front door. Inside the seats are all around the same heights. There is space in between tables.",
+         "categories": [
+            {
+               "alias": "caribbean",
+               "title": "Caribbean"
+            },
+            {
+               "alias": "bars",
+               "title": "Bars"
+            }
+         ],
+         "rating": 4.0,
+         "coordinates": {
+            "latitude": 40.8199158,
+            "longitude": -73.9460373
+         },
+         "transactions": [
+            "pickup",
+            "delivery"
+         ],
+         "price": "$$",
+         "location": {
+            "address1": "101 Edgecombe Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10030",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+               "101 Edgecombe Ave",
+               "New York, NY 10030"
+            ]
+         },
+         "phone": "+12129399688",
+         "display_phone": "(212) 939-9688",
+         "distance": 999.7129328301825
+      },
+      {
+         "id": "tsiC3VpO-hZEb98Qk3p-DQ",
+         "alias": "amy-ruths-new-york",
+         "name": "Amy Ruth's",
+         "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/fClAz0bXmgZV-K-YWEn1hA/o.jpg",
+         "image_alt": "fried chicken on waffle on a plate in Amy Ruth's",
+         "is_closed": false,
+         "url": "https://www.yelp.com/biz/amy-ruths-new-york?adjust_creative=PIkIP8RRfZoHQb4Z8Y710w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=PIkIP8RRfZoHQb4Z8Y710w",
+         "review_count": 2967,
+         "description": "There is no stairs in the front entrance but it is quite narrow. The seats are spread apart. The table are low. It is loud in the afternoon",
+         "categories": [
+            {
+               "alias": "southern",
+               "title": "Southern"
+            },
+            {
+               "alias": "soulfood",
+               "title": "Soul Food"
+            },
+            {
+               "alias": "sandwiches",
+               "title": "Sandwiches"
+            }
+         ],
+         "rating": 4.0,
+         "coordinates": {
+            "latitude": 40.80248,
+            "longitude": -73.95038
+         },
+         "transactions": [
+            "pickup",
+            "delivery"
+         ],
+         "price": "$$",
+         "location": {
+            "address1": "113 W 116th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "zip_code": "10026",
+            "country": "US",
+            "state": "NY",
+            "display_address": [
+               "113 W 116th St",
+               "New York, NY 10026"
+            ]
+         },
+         "phone": "+12122808779",
+         "display_phone": "(212) 280-8779",
+         "distance": 1147.9124162141813
+      },
+      {"id": "TzhAlljC_843JO7UDDUIaQ",
+      "alias": "the-tang-upper-west-side-new-york",
+      "name": "The Tang",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/BINHID_N2dAhKPjDXUbg1A/o.jpg",
+      "image_alt": "pop corn shrimp in a bowl",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/the-tang-upper-west-side-new-york?adjust_creative=PIkIP8RRfZoHQb4Z8Y710w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=PIkIP8RRfZoHQb4Z8Y710w",
+      "review_count": 292,
+      "description": " There is no stairs in the front entrance, but it is quite narrow. The seats are very clustered. There is couch and chairs for most table. The bar is high. It is quite spacious so could be easy to move around. It is occasionally loud.",
+      "categories": [
+         {
+            "alias": "noodles",
+            "title": "Noodles"
+         },
+         {
+            "alias": "szechuan",
+            "title": "Szechuan"
+         },
+         {
+            "alias": "dimsum",
+            "title": "Dim Sum"
+         }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+         "latitude": 40.80006,
+         "longitude": -73.96639
+      },
+      "transactions": [
+         "pickup",
+         "delivery"
+      ],
+      "price": "$$",
+      "location": {
+         "address1": "920 Amsterdam Ave",
+         "address2": null,
+         "address3": "",
+         "city": "New York",
+         "zip_code": "10025",
+         "country": "US",
+         "state": "NY",
+         "display_address": [
+            "920 Amsterdam Ave",
+            "New York, NY 10025"
+         ]
+      },
+      "phone": "+16465967970",
+      "display_phone": "(646) 596-7970",
+      "distance": 1792.4927287948954
+      }
+   ],
+   "total": 2900,
+   "region": {
+      "center": {
+         "longitude": -73.95318031311035,
+         "latitude": 40.812639226752324
+      }
+   }
+}
