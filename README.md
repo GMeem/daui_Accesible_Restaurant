@@ -1,2 +1,2 @@
 # Accesible_Resturant
-List of accessible resturant near Columbia University with description
+List of accessible restaurant near Columbia University with description
